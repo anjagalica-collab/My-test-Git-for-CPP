@@ -9,7 +9,6 @@ git status
 git commit -m"Мій перший коміт"
 
 Робимо на GitHub репозиторій і беремо 3 нижні команди - це у мене такі команди
+git remote add origin https://github.com/anjagalica-collab/My-test-Git-for-CPP.git
 git branch -M main
-git remote add origin https://github.com/novakvova/CPP_NPR511.git
 git push -u origin main
-```
